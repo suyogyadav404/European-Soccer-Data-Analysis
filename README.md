@@ -1,6 +1,6 @@
 # European-Soccer-Data-Analysis
 
-![European Soccer](https://github.com/suyogyadav404/European-Soccer-Data-Analysis/blob/main/soccer.jpg)
+![football123](https://user-images.githubusercontent.com/68646633/233082676-c8211966-431f-4a3a-846c-4be1e5d89d92.jpg)
 
 
 A vast analysis of European Soccer using SQLite3,Pandas, Matplotlib and Numpy.
